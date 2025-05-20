@@ -1,3 +1,4 @@
+# Deo Mimpungu
 # commande-git
 ---
 title: Git config
